@@ -1,5 +1,18 @@
-<h1 align="center">Greetings! 👋🏼</h1>
-<p align="center">I'm Ana, a young programmer aspiring to be a front-end developer with basic back-end knowledge.</p>
+# Greetings! 👋🏼
 
-<p align="center"><strong>Technologies I'm currently using:</strong></p>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+I'm Ana, a young programmer aspiring to be a front-end developer with basic back-end knowledge.
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaiswritingcode&show_icons=true&theme=great-gatsby)
+
+## Technologies I work with:
+
+This year I'll be studying full-stack web development in order to follow a generalist-to-specialist approach. 
+
+**Currently using:**
+
+[![List of current technologies](https://skillicons.dev/icons?i=bash,git,html,css,js)](https://skillicons.dev)
+
+**Will study soon:**
+
+[![List of future technologies](https://skillicons.dev/icons?i=java,php,postgresql,nodejs,angular)](https://skillicons.dev)
+
