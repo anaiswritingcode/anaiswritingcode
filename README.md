@@ -10,7 +10,7 @@ This year I'll be studying full-stack web development in order to follow a gener
 
 **Currently using:**
 
-[![List of current technologies](https://skillicons.dev/icons?i=bash,git,html,css,js, react)](https://skillicons.dev)
+[![List of current technologies](https://skillicons.dev/icons?i=bash,git,html,css,js,react)](https://skillicons.dev)
 
 **Will study soon:**
 
