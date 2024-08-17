@@ -14,5 +14,5 @@ This year I'll be studying full-stack web development in order to follow a gener
 
 **Will study soon:**
 
-[![List of future technologies](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
+[![List of future technologies](https://skillicons.dev/icons?i=java,nodejs,express,sqlite)](https://skillicons.dev)
 
