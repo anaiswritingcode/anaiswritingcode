@@ -2,7 +2,7 @@
 
 I'm Ana, a young programmer aspiring to be a front-end developer with additional back-end knowledge.
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaiswritingcode&show_icons=true&theme=great-gatsby)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaiswritingcode&show_icons=true&theme=merko)
 
 ## Technologies I work with:
 
