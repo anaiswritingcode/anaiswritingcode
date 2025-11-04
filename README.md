@@ -8,8 +8,8 @@ I'm Ana, a young programmer aspiring to be a software developer who contributes 
 
 **Currently using:**
 
-[![List of current technologies](https://skillicons.dev/icons?i=bash,git,html,css,js,java)](https://skillicons.dev)
+[![List of current technologies](https://skillicons.dev/icons?i=html,css,js,java,git)](https://skillicons.dev)
 
 **Will study eventually:**
 
-[![List of future technologies](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
+[![List of future technologies](https://skillicons.dev/icons?i=nodejs,php,spring,react,python,django,angular)](https://skillicons.dev)
